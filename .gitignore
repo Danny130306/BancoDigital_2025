@@ -12,6 +12,7 @@ logs
 *.log
 
 # Entornos virtuales (Python)
+myenv/
 venv/
 ENV/
 .env
